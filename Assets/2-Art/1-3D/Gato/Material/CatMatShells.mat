@@ -92,7 +92,7 @@ Material:
     m_Floats:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
-    - _AlphaCutout: 0.168
+    - _AlphaCutout: 0.255
     - _AlphaToMask: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
@@ -121,8 +121,8 @@ Material:
     - _RimLightIntensity: 0.5
     - _RimLightPower: 6
     - _ShadowExtraBias: 0
-    - _ShellAmount: 8
-    - _ShellStep: 0.00042
+    - _ShellAmount: 7
+    - _ShellStep: 0.0008
     - _Smoothness: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
