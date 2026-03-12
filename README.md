@@ -1,6 +1,6 @@
 <header>
+<img width="1640" height="684" alt="Fur" src="https://github.com/user-attachments/assets/844f0b7f-0c85-4f01-9426-a49e22f9cc4e" />
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
 # **Fur-Hair**
 
