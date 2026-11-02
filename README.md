@@ -18,7 +18,7 @@
 
 ## 🧱 Stack técnico
 
-- **Unity**: `6000.3.10f1`
+- **Unity**: `6000.3.27f1`
 - **Render Pipeline**: `com.unity.render-pipelines.universal@17.3.0`
 - **Visual Effects**: `com.unity.visualeffectgraph@17.3.0`
 - **XR/OpenXR**: `com.unity.xr.meta-openxr@2.4.0`
@@ -52,7 +52,7 @@ cd Fur-Hair
 
 1. Abre **Unity Hub**.
 2. Selecciona **Add project** y elige esta carpeta.
-3. Usa la versión **6000.3.10f1** (o compatible).
+3. Usa la versión **6000.3.27f1** (o compatible).
 
 ### 3) Ejecutar escenas de prueba
 
